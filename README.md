@@ -1,7 +1,6 @@
-## Hi there 👋 I,m SK ARIAN ALI
+## Hi 👋 I,m SK ARIAN ALI
 
-# 💫### 🧠 Software Engineer | Generative AI Specialist | Builder of Intelligent Systems<br><br>Welcome to my GitHub! I'm a Software Engineer with deep expertise in **Generative AI** — from building custom LLM applications to deploying multimodal AI systems in production. I focus on real-world impact, clean architecture, and scalable AI tooling.
-
+# 💫### 🧠 Software Engineer | Generative AI Specialist | Web Developer<br><br>Welcome to my GitHub! I'm a Software Engineer passionate about building responsive and high-performance websites using JavaScript, React, Next.js, and Node.js. I enjoy creating clean UI/UX and full-stack applications with tools like MongoDB, Tailwind CSS, and Git.
 
 
 ## 🌐 Socials:
